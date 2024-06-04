@@ -1,21 +1,40 @@
-# repositorio_mandibulas_morales
-¡Hola, Mundo ! 
+# Repositorio de Investigación Mandíbula Morales
 
-Este es un repositorio de datos, imágenes y herramientas del trabajo de investigación “Mandíbulas Morales”, disponible en GitHub. En este espacio, investigadores, académicos y aficionados a las humanidades digitales encontrarán una rica colección de recursos:
+Bienvenidos al repositorio digital de la tesis de maestría "Mandíbula Morales", una investigación exhaustiva sobre la presencia de retórica visual frenológica en memes de internet.
 
-Colecciones de imágenes frenológicas: Una selección curada que brinda una mirada introspectiva a la frenología histórica.
+## Propósito del Repositorio
 
-Manuales de frenología en PDF: Documentos completos que ofrecen teorías e instrucciones relacionadas con la frenología.
+Este repositorio se ha creado con dos objetivos principales:
 
-Colecciones de memes: Un total de 11 colecciones, que suman 2930 memes, mostrando la interacción cultural y la evolución de los memes en la sociedad.
+1. **Transparencia**: Proporcionar acceso completo a los datos utilizados en la investigación para garantizar la transparencia del estudio.
+2. **Colaboración**: Fomentar la colaboración académica, ofreciendo una base de datos desarrollada para que otros investigadores puedan utilizarla y expandirla.
 
-Ilustraciones frenológicas: Un conjunto de 249 ilustraciones que visualizan la frenología
-.
-Curaduría digital: Imágenes seleccionadas por su relevancia y significado en el contexto de la investigación.
+## Contenidos del Repositorio
 
-Visualizaciones de datos: Representaciones gráficas que ayudan a entender y analizar los datos recopilados.
+Encontrarás los siguientes recursos:
 
-Datos en formatos CSV y JSON: Información procesada por Memespector GUI, una herramienta creada por Jason Chao, que facilita el análisis de los memes.
+- Imágenes en **baja definición** utilizadas para el análisis cuantitativo.
+- Imágenes en **alta definición** seleccionadas para la curaduría.
+- **Archivos finales** y pruebas de visualización de datos obtenidos a través de **MEMESPECTOR GUI**.
+- **Hojas de cálculo** y documentos con datos analíticos.
+- Manuales completos de **frenología ilustrados**.
+- Enlaces a las **11 colecciones de memes** obtenidas desde *Know Your Meme*.
 
-Este repositorio es un tesoro para aquellos interesados en la intersección de la cultura, la historia y la tecnología, proporcionando un espacio para explorar, analizar y contribuir al campo emergente de las humanidades digitales. ¡Explora, descarga y sumérgete en el fascinante mundo de “Mandíbulas Morales”!
+### Formatos de Archivos
+
+Los archivos `.xls`, `.json` y `.csv` están diseñados principalmente para el análisis de datos. Los formatos:
+
+- **GEXF**
+- **GDF**
+- **GML**
+
+Pueden ser analizados y visualizados con Gephi, una herramienta de código abierto para la visualización y exploración de redes.
+
+### Visualizaciones Disponibles
+
+Se incluyen visualizaciones ya elaboradas con Gephi, así como otras herramientas de código abierto como Table 2 Net e Image Sorter.
+
+## Contribuciones y Contacto
+
+Invitamos a los investigadores a utilizar esta base de datos para sus propios estudios. Cualquier hallazgo, solicitud de colaboración o señalamiento de posibles errores en los experimentos son bienvenidos. Puedes comunicarte directamente aquí o enviar un correo a a.aune@uniandes.edu.co.
 
